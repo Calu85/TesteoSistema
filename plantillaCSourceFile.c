@@ -56,6 +56,6 @@ void Funcion2(uint8_t arg1, uint8_t arg2) {
     FuncionQueHaceAlgo(arg1, arg2);
 }
 
-void main () {
-    Funcion2(1,2)
+void main() {
+    Funcion2(1, 2)
 }
