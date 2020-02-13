@@ -13,5 +13,5 @@ DEL output*
 ECHO Comprobando CPPCheck
 cppcheck --enable=all .
 
-start "" "Documentation\html\index.html"
+start "" "Documentation\html\plantilla_c_source_file_8c.html"
 @pause
