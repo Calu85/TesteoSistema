@@ -1,6 +1,5 @@
 @ECHO OFF
 rmdir /S /Q Documentation 
-DEL Output*
 
 ECHO Pasando uncrustify
 uncrustify -c uncrustify.cfg -f plantillaCSourceFile.c -o outputPlantillaCSourceFile.c
